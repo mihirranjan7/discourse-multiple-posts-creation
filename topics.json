@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Welcome to the Forum!",
+        "body": "This is the first post on our new forum. Feel free to introduce yourself!",
+        "category": 1,
+        "image_url": "https://example.com/image1.jpg",
+        "image_position": "start",
+        "formatting": {
+            "bold": true,
+            "italic": false,
+            "header": true
+        },
+        "embed_url": "https://www.example.com",
+        "external_id": "topic_001"
+    },
+    {
+        "title": "How to Use Discourse API",
+        "body": "In this post, we will explore how to integrate with the Discourse API using Python.",
+        "category": 2,
+        "image_url": "https://example.com/image2.jpg",
+        "image_position": "end",
+        "formatting": {
+            "bold": false,
+            "italic": true,
+            "header": false
+        },
+        "embed_url": "https://www.discourse.org",
+        "external_id": "topic_002"
+    },
+    {
+        "title": "Top 10 Tips for Community Engagement",
+        "body": "Learn how to keep your forum active and engaged with these top 10 tips.",
+        "category": 3,
+        "image_url": "https://example.com/image3.jpg",
+        "image_position": "inline",
+        "formatting": {
+            "bold": false,
+            "italic": false,
+            "header": true
+        },
+        "embed_url": "https://www.communitytips.com",
+        "external_id": "topic_003"
+    }
+]
